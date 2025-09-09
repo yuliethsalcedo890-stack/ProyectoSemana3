@@ -1,0 +1,8 @@
+1;Pantalon_1;4746,77
+2;Zapatos_2;5892,49
+3;Sombrero_3;4426,70
+4;Pantalon_4;3460,82
+5;Pantalon_5;4709,21
+6;Pantalon_6;3179,39
+7;Sombrero_7;6601,54
+8;Chaqueta_8;9339,32
